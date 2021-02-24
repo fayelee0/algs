@@ -21,12 +21,12 @@ public class P2 {
             char right = str.charAt(winEnd);
             if (mem.containsKey(right)) {
                 mem.put(right, mem.get(right) - 1);
-                if (mem.get(right) == 0) {
+                if (mem.get(right) >= 0) {
                     matched++;
                 }
             }
 
-            while (matched == mem.size()) {
+            while (matched == pattern.length()) {
                 if (winEnd - winStart + 1 < min) {
                     min = winEnd - winStart + 1;
                     minStart = winStart;
@@ -34,10 +34,10 @@ public class P2 {
 
                 char left = str.charAt(winStart);
                 if (mem.containsKey(left)) {
-                    mem.put(left, mem.get(left) + 1);
-                    if (mem.get(left) > 0) {
+                    if (mem.get(left) == 0) {
                         matched--;
                     }
+                    mem.put(left, mem.get(left) + 1);
                 }
                 winStart++;
             }

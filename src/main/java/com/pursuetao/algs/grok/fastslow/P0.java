@@ -8,9 +8,16 @@ package com.pursuetao.algs.grok.fastslow;
 public class P0 {
     // 2 -> 4 -> 6 -> 4 -> 2 -> .
     //           S
+    //           2 -> 4 -> 6 -> .
+    //           6 -> 4 -> 2 -> .
     //
     // 2 -> 4 -> 6 -> 4 -> 2 -> 2 -> .
     //                S
+    //                2 -> 2 -> 4 -> .
+    //                4 -> 2 -> 2 -> .
+    //
+    // Time Complexity O(N)
+    // Space Complexity O(1)
     public static boolean isPalindrome(ListNode head) {
         if (head == null || head.next == null) {
             return true;
@@ -19,15 +26,15 @@ public class P0 {
         ListNode slow = head;
         ListNode fast = head;
 
-        while (fast != null && fast.next != null) {
+        while (fast != null && fast.next != null) {     // O(N)
             slow = slow.next;
             fast = fast.next.next;
         }
 
-        ListNode revs = reverse(slow);
+        ListNode revs = reverse(slow);                  // O(N)
         ListNode temp = revs;
 
-        while (head != null && revs != null) {
+        while (head != null && revs != null) {          // O(N)
             if (head.value != revs.value) {
                 break;
             } else {
@@ -36,7 +43,7 @@ public class P0 {
             }
         }
 
-        reverse(temp);
+        reverse(temp);                                  // O(N)
         return head == null || revs == null;
     }
 

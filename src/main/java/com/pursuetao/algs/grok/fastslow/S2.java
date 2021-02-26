@@ -3,6 +3,8 @@ package com.pursuetao.algs.grok.fastslow;
 // Start of LinkedList Cycle
 // Given the head of a Singly LinkedList that contains a cycle, write a function to find the starting node of the cycle.
 public class S2 {
+    // Time Complexity O(N)
+    // Space Complexity O(1)
     public static ListNode findCycleStart(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;

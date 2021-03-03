@@ -54,6 +54,12 @@
 
 ## 7 Tree Breadth First Search
 
+### 7.1 Binary Tree Level Order Traversal
+
+### 7.2 Reversal Level Order Traversal
+
+### 7.3 Zigzag Traversal
+
 ## 8 Tree Depth First Search
 
 ## 9 Two Heaps

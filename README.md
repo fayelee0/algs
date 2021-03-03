@@ -44,9 +44,11 @@
 
 ### 6.1 Reverse a LinkedList
 
-### 6.2 Reverse a SubList
+### 6.2 Reverse a Sublist
 
-### 6.3 Reverse every K-element SubList
+### 6.3 Reverse every K-element Sublist
+
+### 6.4 Reverse alternating K-element Sublist
 
 ## 7 Tree Breadth First Search
 

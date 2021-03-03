@@ -1,5 +1,7 @@
 package com.pursuetao.algs.grok.slidingwindow;
 
+// Longest Subarray with Ones after Replacement
+//
 // Given an array containing 0s and 1s, if you are allowed to replace no more than ‘k’ 0s with 1s, find the length of the longest contiguous subarray having all 1s.
 public class S7 {
     public static int findLength(int[] arr, int K) {

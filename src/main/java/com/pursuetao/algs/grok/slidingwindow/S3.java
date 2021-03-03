@@ -3,6 +3,8 @@ package com.pursuetao.algs.grok.slidingwindow;
 import java.util.HashMap;
 import java.util.Map;
 
+// Longest Substring with K Distinct Characters
+//
 // Given a string, find the length of the longest substring in it with no more than K distinct characters.
 public class S3 {
     public static int findLength(String str, int K) {

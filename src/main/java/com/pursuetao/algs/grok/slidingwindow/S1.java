@@ -1,5 +1,7 @@
 package com.pursuetao.algs.grok.slidingwindow;
 
+// Maximum Sum Subarray of Size K
+//
 // Given an array of positive numbers and a positive number ‘k,’ find the maximum sum of any contiguous subarray of size ‘k’.
 public class S1 {
     public static int findMaxSumSubArray(int K, int[] arr) {

@@ -5,6 +5,8 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
+// No-repeat Substring
+//
 // Given a string, find the length of the longest substring, which has no repeating characters.
 public class S5 {
     public static int findLength(String str) {

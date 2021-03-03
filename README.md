@@ -50,6 +50,8 @@
 
 ### 6.4 Reverse alternating K-element Sublist
 
+### 6.5 Rotate a LinkedList
+
 ## 7 Tree Breadth First Search
 
 ## 8 Tree Depth First Search

@@ -42,6 +42,10 @@
 
 ## 6 In-place Reversal of a LinkedList
 
+### 6.1 Reverse a LinkedList
+
+### 6.2 Reverse a SubList
+
 ## 7 Tree Breadth First Search
 
 ## 8 Tree Depth First Search

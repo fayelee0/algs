@@ -16,7 +16,7 @@ public class S3 {
 
         ListNode prev = null;
         ListNode curr = head;
-        while (true) {
+        while (curr != null) {
             ListNode lastNodeOfPreviousPart = prev;
             ListNode lastNodeOfSubList = curr;
 
@@ -35,11 +35,6 @@ public class S3 {
             }
 
             lastNodeOfSubList.next = curr;
-
-            if (curr == null) {
-                break;
-            }
-
             prev = lastNodeOfSubList;
         }
 

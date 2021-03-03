@@ -8,6 +8,9 @@ public class P1 {
     //                S
     //                6 -> 5 -> 4 -> .
     // 1 -> 6 -> 2 -> 5 -> 3 -> 4 -> .
+    //
+    // Time Complexity O(N)
+    // Space Complexity O(1)
     public static void reorder(ListNode head) {
         if (head != null && head.next != null) {
             ListNode slow = head;

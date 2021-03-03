@@ -1,5 +1,7 @@
 package com.pursuetao.algs.grok.fastslow;
 
+import com.pursuetao.algs.grok.ListNode;
+
 // Palindrome LinkedList
 // Given the head of a Singly LinkedList, write a method to check if the LinkedList is a palindrome or not.
 //

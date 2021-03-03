@@ -1,5 +1,6 @@
 package com.pursuetao.algs.grok.fastslow;
 
+import com.pursuetao.algs.grok.ListNode;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

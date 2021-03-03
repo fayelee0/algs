@@ -42,6 +42,16 @@
 
 ## 6 In-place Reversal of a LinkedList
 
+### 6.1 Reverse a LinkedList
+
+### 6.2 Reverse a Sublist
+
+### 6.3 Reverse every K-element Sublist
+
+### 6.4 Reverse alternating K-element Sublist
+
+### 6.5 Rotate a LinkedList
+
 ## 7 Tree Breadth First Search
 
 ## 8 Tree Depth First Search

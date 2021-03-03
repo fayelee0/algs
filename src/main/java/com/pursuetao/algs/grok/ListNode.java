@@ -1,4 +1,4 @@
-package com.pursuetao.algs.grok.fastslow;
+package com.pursuetao.algs.grok;
 
 import java.util.ArrayList;
 import java.util.List;

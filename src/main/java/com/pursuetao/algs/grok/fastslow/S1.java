@@ -1,5 +1,7 @@
 package com.pursuetao.algs.grok.fastslow;
 
+import com.pursuetao.algs.grok.ListNode;
+
 // Cycle LinkedList Length
 // Given the head of a LinkedList with a cycle, find the length of the cycle.
 public class S1 {

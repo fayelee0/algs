@@ -6,6 +6,8 @@ import com.pursuetao.algs.grok.ListNode;
 //
 // Given the head of a LinkedList and two positions ‘p’ and ‘q’, reverse the LinkedList from position ‘p’ to ‘q’.
 public class S2 {
+    // Time Complexity O(N)
+    // Space Complexity O(1)
     public static ListNode reverse(ListNode head, int p, int q) {
         if (p == q) {
             return head;

@@ -46,6 +46,8 @@
 
 ### 6.2 Reverse a SubList
 
+### 6.3 Reverse every K-element SubList
+
 ## 7 Tree Breadth First Search
 
 ## 8 Tree Depth First Search

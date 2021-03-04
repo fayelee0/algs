@@ -64,6 +64,8 @@
 
 ### 7.5 Minimum Depth of a Binary Tree
 
+### 7.6 Level Order Successor
+
 ## 8 Tree Depth First Search
 
 ## 9 Two Heaps

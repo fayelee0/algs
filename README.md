@@ -66,6 +66,8 @@
 
 ### 7.6 Level Order Successor
 
+### 7.7 Connect Level Order Siblings
+
 ## 8 Tree Depth First Search
 
 ## 9 Two Heaps

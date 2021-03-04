@@ -70,6 +70,16 @@
 
 ## 8 Tree Depth First Search
 
+### 8.1 Binary Tree Path Sum
+
+### 8.2 ! All Paths for a Sum
+
+### 8.3 Sum of Path Numbers
+
+### 8.4 Path with Given Sequence
+
+### 8.5 ! Count Paths for a Sum
+
 ## 9 Two Heaps
 
 ## 10 Subsets

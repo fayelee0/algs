@@ -62,6 +62,8 @@
 
 ### 7.4 Level Averages in a Binary Tree
 
+### 7.5 Minimum Depth of a Binary Tree
+
 ## 8 Tree Depth First Search
 
 ## 9 Two Heaps

@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.*;
 
-public class TreeS3 {
+public class TestS3 {
     private TreeNode tree0;
     private TreeNode tree1;
 

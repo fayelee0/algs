@@ -78,6 +78,8 @@
 
 ## 12 Bitwise XOR
 
+### 12.1 Single Number
+
 ## 13 Top 'K' Elements
 
 ## 14 K-way merge

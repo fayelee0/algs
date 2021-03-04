@@ -60,6 +60,8 @@
 
 ### 7.3 Zigzag Traversal
 
+### 7.4 Level Averages in a Binary Tree
+
 ## 8 Tree Depth First Search
 
 ## 9 Two Heaps

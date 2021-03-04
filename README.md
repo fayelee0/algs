@@ -54,6 +54,20 @@
 
 ## 7 Tree Breadth First Search
 
+### 7.1 Binary Tree Level Order Traversal
+
+### 7.2 Reversal Level Order Traversal
+
+### 7.3 Zigzag Traversal
+
+### 7.4 Level Averages in a Binary Tree
+
+### 7.5 Minimum Depth of a Binary Tree
+
+### 7.6 Level Order Successor
+
+### 7.7 Connect Level Order Siblings
+
 ## 8 Tree Depth First Search
 
 ## 9 Two Heaps

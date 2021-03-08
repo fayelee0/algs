@@ -18,12 +18,7 @@ public class S1 {
             return lists[0];
         }
 
-        PriorityQueue<ListNode> minHeap = new PriorityQueue<>(new Comparator<ListNode>() {
-            @Override
-            public int compare(ListNode o1, ListNode o2) {
-                return o1.value - o2.value;
-            }
-        });
+        PriorityQueue<ListNode> minHeap = new PriorityQueue<>(Comparator.comparingInt(o -> o.value));
 
         for (ListNode node : lists) {
             if (node != null) {

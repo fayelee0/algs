@@ -86,6 +86,8 @@
 
 ### 14.2 Kth Smallest Number in M Sorted
 
+### 14.3 Kth Smallest Number in a Sorted Matrix
+
 ## 15 0/1 Knapsack (Dynamic Programming)
 
 ## 16 Topological Sort (Graph)

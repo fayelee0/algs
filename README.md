@@ -84,6 +84,8 @@
 
 ### 14.1 Merge K Sorted Lists
 
+### 14.2 Kth Smallest Number in M Sorted
+
 ## 15 0/1 Knapsack (Dynamic Programming)
 
 ## 16 Topological Sort (Graph)

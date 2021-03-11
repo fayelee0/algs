@@ -92,9 +92,11 @@
 
 #### 13.5 Top 'K' Frequent Numbers
 
-### 13.6 Frequency Sort
+#### 13.6 Frequency Sort
 
-### 13.7 Kth Largest Number in a Stream
+#### 13.7 Kth Largest Number in a Stream
+
+#### 13.8 'K' Closest Numbers
 
 ### 14 K-way merge
 

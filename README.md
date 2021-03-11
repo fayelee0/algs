@@ -92,6 +92,8 @@
 
 #### 13.5 Top 'K' Frequent Numbers
 
+### 13.6 Frequency Sort
+
 ### 14 K-way merge
 
 #### 14.1 Merge K Sorted Lists

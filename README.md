@@ -94,6 +94,8 @@
 
 ### 13.6 Frequency Sort
 
+### 13.7 Kth Largest Number in a Stream
+
 ### 14 K-way merge
 
 #### 14.1 Merge K Sorted Lists

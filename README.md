@@ -1,87 +1,103 @@
 # Y21 Algorithms
 
-## 1 Sliding Window
+## Grokking Algorithms Patterns
 
-### 1.1 Maximum Sum Subarray of Size K
+### 1 Sliding Window
 
-### 1.2 Smallest Subarray with a given sum
+#### 1.1 Maximum Sum Subarray of Size K
 
-### 1.3 Longest Substring with K Distinct Characters
+#### 1.2 Smallest Subarray with a given sum
 
-### 1.4 Fruits into Baskets
+#### 1.3 Longest Substring with K Distinct Characters
 
-### 1.5 No-repeat Substring
+#### 1.4 Fruits into Baskets
 
-### 1.6 Longest Substring with Same Letters after Replacement
+#### 1.5 No-repeat Substring
 
-### 1.7 Longest Subarray with Ones after Replacement
+#### 1.6 Longest Substring with Same Letters after Replacement
 
-## 2 Two Pointers
+#### 1.7 Longest Subarray with Ones after Replacement
 
-## 3 Fast-Slow Pointers
+### 2 Two Pointers
 
-### 3.1 LinkedList Cycle
+### 3 Fast-Slow Pointers
 
-### 3.1a Cycle LinkedList Length
+#### 3.1 LinkedList Cycle
 
-### 3.2 Start of LinkedList Cycle
+#### 3.1a Cycle LinkedList Length
 
-### 3.3 Happy Number
+#### 3.2 Start of LinkedList Cycle
 
-### 3.4 Middle of the LinkedList
+#### 3.3 Happy Number
 
-### 3.5 Palindrome LinkedList
+#### 3.4 Middle of the LinkedList
 
-### 3.6 Rearrange a LinkedList
+#### 3.5 Palindrome LinkedList
 
-### 3.7 !! Cycle in a Circular Array
+#### 3.6 Rearrange a LinkedList
 
-## 4 Merge Intervals
+#### 3.7 !! Cycle in a Circular Array
 
-## 5 Cyclic Sort
+### 4 Merge Intervals
 
-## 6 In-place Reversal of a LinkedList
+### 5 Cyclic Sort
 
-### 6.1 Reverse a LinkedList
+### 6 In-place Reversal of a LinkedList
 
-### 6.2 Reverse a Sublist
+#### 6.1 Reverse a LinkedList
 
-### 6.3 Reverse every K-element Sublist
+#### 6.2 Reverse a Sublist
 
-### 6.4 Reverse alternating K-element Sublist
+#### 6.3 Reverse every K-element Sublist
 
-### 6.5 Rotate a LinkedList
+#### 6.4 Reverse alternating K-element Sublist
 
-## 7 Tree Breadth First Search
+#### 6.5 Rotate a LinkedList
 
-### 7.1 Binary Tree Level Order Traversal
+### 7 Tree Breadth First Search
 
-### 7.2 Reversal Level Order Traversal
+#### 7.1 Binary Tree Level Order Traversal
 
-### 7.3 Zigzag Traversal
+#### 7.2 Reversal Level Order Traversal
 
-### 7.4 Level Averages in a Binary Tree
+#### 7.3 Zigzag Traversal
 
-### 7.5 Minimum Depth of a Binary Tree
+#### 7.4 Level Averages in a Binary Tree
 
-### 7.6 Level Order Successor
+#### 7.5 Minimum Depth of a Binary Tree
 
-### 7.7 Connect Level Order Siblings
+#### 7.6 Level Order Successor
 
-## 8 Tree Depth First Search
+#### 7.7 Connect Level Order Siblings
 
-## 9 Two Heaps
+### 8 Tree Depth First Search
 
-## 10 Subsets
+### 9 Two Heaps
 
-## 11 Modified Binary Search
+### 10 Subsets
 
-## 12 Bitwise XOR
+### 11 Modified Binary Search
 
-## 13 Top 'K' Elements
+### 12 Bitwise XOR
 
-## 14 K-way merge
+### 13 Top 'K' Elements
 
-## 15 0/1 Knapsack (Dynamic Programming)
+### 14 K-way merge
 
-## 16 Topological Sort (Graph)
+#### 14.1 Merge K Sorted Lists
+
+#### 14.2 Kth Smallest Number in M Sorted
+
+#### 14.3 ! Kth Smallest Number in a Sorted Matrix
+
+#### 14.4 Smallest Number Range
+
+### 15 0/1 Knapsack (Dynamic Programming)
+
+### 16 Topological Sort (Graph)
+
+## Basic Data Structures
+
+### 1. Priority Queue
+
+### 2. Hash Map

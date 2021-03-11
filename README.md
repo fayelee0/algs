@@ -82,6 +82,8 @@
 
 ### 13 Top 'K' Elements
 
+#### 13.1 Top 'K' Numbers
+
 ### 14 K-way merge
 
 #### 14.1 Merge K Sorted Lists

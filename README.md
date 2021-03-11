@@ -84,6 +84,10 @@
 
 #### 13.1 Top 'K' Numbers
 
+#### 13.2 Kth Smallest Number
+
+#### 13.3 'K' Closest Points to the Origin 
+
 ### 14 K-way merge
 
 #### 14.1 Merge K Sorted Lists

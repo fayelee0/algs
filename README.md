@@ -88,6 +88,8 @@
 
 #### 13.3 'K' Closest Points to the Origin 
 
+#### 13.4 Connect Ropes
+
 ### 14 K-way merge
 
 #### 14.1 Merge K Sorted Lists

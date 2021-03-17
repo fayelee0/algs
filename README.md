@@ -100,6 +100,12 @@
 
 #### 16.2 Tasks Scheduling
 
+#### 16.3 Tasks Scheduling Order
+
+#### 16.4 All Tasks Scheduling Orders
+
+#### 16.5 Alien Dictionary
+
 ## Basic Data Structures
 
 ### 1. Priority Queue

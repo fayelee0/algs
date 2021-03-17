@@ -106,6 +106,10 @@
 
 #### 16.5 Alien Dictionary
 
+#### 16.6 Reconstructing a Sequence
+
+#### 16.7 Minimum Height Trees
+
 ## Basic Data Structures
 
 ### 1. Priority Queue

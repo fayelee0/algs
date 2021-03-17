@@ -96,6 +96,20 @@
 
 ### 16 Topological Sort (Graph)
 
+#### 16.1 Topological Sort
+
+#### 16.2 Tasks Scheduling
+
+#### 16.3 Tasks Scheduling Order
+
+#### 16.4 All Tasks Scheduling Orders
+
+#### 16.5 Alien Dictionary
+
+#### 16.6 Reconstructing a Sequence
+
+#### 16.7 Minimum Height Trees
+
 ## Basic Data Structures
 
 ### 1. Priority Queue

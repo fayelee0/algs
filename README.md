@@ -98,6 +98,8 @@
 
 #### 16.1 Topological Sort
 
+#### 16.2 Tasks Scheduling
+
 ## Basic Data Structures
 
 ### 1. Priority Queue

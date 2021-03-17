@@ -96,6 +96,8 @@
 
 ### 16 Topological Sort (Graph)
 
+#### 16.1 Topological Sort
+
 ## Basic Data Structures
 
 ### 1. Priority Queue

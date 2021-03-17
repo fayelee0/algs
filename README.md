@@ -82,6 +82,22 @@
 
 ### 13 Top 'K' Elements
 
+#### 13.1 Top 'K' Numbers
+
+#### 13.2 Kth Smallest Number
+
+#### 13.3 'K' Closest Points to the Origin 
+
+#### 13.4 Connect Ropes
+
+#### 13.5 Top 'K' Frequent Numbers
+
+#### 13.6 Frequency Sort
+
+#### 13.7 Kth Largest Number in a Stream
+
+#### 13.8 'K' Closest Numbers
+
 ### 14 K-way merge
 
 #### 14.1 Merge K Sorted Lists
